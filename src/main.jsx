@@ -1,21 +1,17 @@
+/* eslint-disable no-undef */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 import './index.css'
 import {
-  createBrowserRouter,
-  RouterProvider,
+  RouterProvider
 } from "react-router-dom";
+import createRoute from './Router/Route';
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <div>THis is donation website</div>,
-  },
-]);
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-     <RouterProvider router={router} />
+     <RouterProvider router={createRoute} />
   </React.StrictMode>,
 )
