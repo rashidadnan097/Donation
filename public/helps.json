@@ -7,7 +7,7 @@
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
-      "Description": "Support students in need by contributing to their education fund.",
+      "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
       "Price": "$20.00"
     },
     {
@@ -18,7 +18,7 @@
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
-      "Description": "Help provide meals to those facing hunger in our community.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$10.00"
     },
     {
@@ -29,7 +29,7 @@
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
-      "Description": "Support initiatives that empower and uplift women in society.",
+      "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
       "Price": "$25.00"
       
     },
@@ -41,7 +41,7 @@
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
-      "Description": "Support the care and protection of animals in shelters.",
+      "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
       "Price": "$15.00"
     },
     {
@@ -52,7 +52,7 @@
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
-      "Description": "Contribute to projects that promote a cleaner and greener environment.",
+      "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
       "Price": "$30.00"
     },
     {
@@ -63,7 +63,7 @@
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
-      "Description": "Support initiatives that uplift and strengthen local communities.",
+      "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
       "Price": "$25.00"
     },
     {
@@ -74,7 +74,7 @@
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
-      "Description": "Provide aid and assistance to those affected by natural disasters.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$50.00"
     },
     {
@@ -85,7 +85,7 @@
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
-      "Description": "Support the arts and cultural heritage through your donation.",
+      "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
       "Price": "$20.00"
     },
     {
@@ -96,7 +96,7 @@
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
-      "Description": "Assist in providing care and companionship to the elderly.",
+      "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
       "Price": "$15.00"
     },
     {
@@ -107,7 +107,7 @@
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
-      "Description": "Empower individuals with disabilities by contributing to support programs.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$30.00"
     },
     {
@@ -118,7 +118,7 @@
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
-      "Description": "Support initiatives that empower and uplift women in society.",
+      "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
       "Price": "$25.00"
     },
     {
@@ -129,7 +129,7 @@
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
-      "Description": "Contribute to programs that nurture and develop the potential of young individuals.",
+      "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
       "Price": "$20.00"
     }
   ]

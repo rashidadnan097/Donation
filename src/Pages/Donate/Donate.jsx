@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router-dom";
+import DonateCard from "./DonateCard";
 
 
 const Donate = () => {
@@ -28,8 +29,8 @@ const Donate = () => {
 
 
     return (
-        <div>
-            <img src= alt="" />
+        <div className="py-5">
+           <DonateCard help={help}></DonateCard>
         </div>
     );
 };
