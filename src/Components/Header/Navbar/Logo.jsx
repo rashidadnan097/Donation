@@ -3,8 +3,8 @@
 const Logo = () => {
     return (
         <div>
-            <h1>Logo</h1>
-          <img src="/Logo.png" alt="" />
+            
+          <img className="w-20" src="https://cdn.vectorstock.com/i/preview-1x/46/22/donate-blue-label-vector-2694622.jpg" alt="" />
 
         </div>
     );

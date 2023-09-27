@@ -9,7 +9,7 @@ const DonationCard = ({help}) => {
            <div style={{background:Card_bg}} className="card card-side  border rounded-md">
          <img className="w-[220px] h-[250px]" src={Picture} alt="Movie"/>
        <div className="card-body">
-      <button style={{background:Text_button_bg,color:Text_color}} className="btn px-2 py-3 w-24 cursor-default">{Category}</button>
+      <button style={{background:Text_button_bg,color:Text_color}} className="btn px-2 py-3 w-28 cursor-default">{Category}</button>
       <p className="text-2xl font-bold">{Title}</p>
       <p style={{color:Text_color}} className="text-xl">{Price}</p>
       <div className="card-actions ">
