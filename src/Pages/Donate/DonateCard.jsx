@@ -37,7 +37,7 @@ const DonateCard = ({help}) => {
     return (
         <div className="h-[120vh]">
            <div className="relative"> <img className="ml-[178px] w-[850px] h-[450px]" src={Picture} alt="" />
-           <button onClick={handleAddToDonation} style={{backgroundColor:Text_button_bg}}  className="absolute btn text-white  top-[360px] left-[230px]">Donate {Price}</button>
+           <button onClick={handleAddToDonation} style={{backgroundColor:Text_color}}  className="absolute btn text-white  top-[360px] left-[230px]">Donate {Price}</button>
            </div>
             <div className="ml-[178px]">
                    <h1 className="mt-6 text-2xl font-extrabold">{Title}</h1>

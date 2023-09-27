@@ -8,7 +8,7 @@
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
       "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
-      "Price": "$20.00"
+      "Price": "$400.00"
     },
     {
       "Picture": "https://www.giving.sg/image/logo?img_id=3586360",
@@ -19,7 +19,7 @@
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$10.00"
+      "Price": "$300.00"
     },
     {
       "Picture": "https://media.istockphoto.com/id/1224414111/vector/clothing-donation-for-charity.jpg?s=612x612&w=0&k=20&c=JYwMegUXLS1UjaxslilaiVN0JjB6nQESZUrY4R1z71A=",
@@ -30,7 +30,7 @@
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
       "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
-      "Price": "$25.00"
+      "Price": "$250.00"
       
     },
     {
@@ -42,95 +42,95 @@
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
       "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
-      "Price": "$15.00"
+      "Price": "$400.00"
     },
     {
-      "Picture": "https://media.istockphoto.com/id/1224414210/vector/food-donation-and-charity.jpg?s=612x612&w=0&k=20&c=Zwz7H7M1-8d23Zpgz127eAaypBznKeGm05dXe80WzHs=",
-      "Title": "Better Food for Everyone",
-      "Category": "Food",
+      "Picture": "https://newsfromnadia.in/wp-content/uploads/2020/08/DOG1.jpg",
+      "Title": "Animal Welfare",
+      "Category": "Animals",
       "Category_bg": "rgba(248, 113, 71, 0.15)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
       "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
-      "Price": "$30.00"
+      "Price": "$200.00"
     },
     {
-      "Picture": "https://media.istockphoto.com/id/1224414111/vector/clothing-donation-for-charity.jpg?s=612x612&w=0&k=20&c=JYwMegUXLS1UjaxslilaiVN0JjB6nQESZUrY4R1z71A=",
-      "Title": "Used Clothing Drive",
-      "Category": "Clothing",
+      "Picture": "https://thumbs.dreamstime.com/b/holding-earth-green-tree-hands-world-environment-day-concept-saving-growing-young-tree-element-image-furnished-74844293.jpg",
+      "Title": "Environmental Conserve",
+      "Category": "Environment",
       "Category_bg": "rgba(121, 194, 63, 0.15)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
       "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
-      "Price": "$25.00"
+      "Price": "$250.00"
     },
     {
-      "Picture": "https://www.giving.sg/image/logo?img_id=3586360",
-      "Title": "Good education",
-      "Category": "Education",
+      "Picture": "https://media.istockphoto.com/id/1391554503/photo/team-of-motivated-volunteers-gathering-hands-in-unity-after-successful-meeting-at-donation.webp?b=1&s=170667a&w=0&k=20&c=ylmNn4FEKR6JQ__sHnroAct82EfQlk4JngHLjjDor68=",
+      "Title": "Community Development",
+      "Category": "Community",
       "Category_bg": "rgba(255, 68, 74, 0.15)",
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$50.00"
+      "Price": "$300.00"
     },
     {
-      "Picture": "https://cmmb.org/wp-content/uploads/2020/08/Doctor-Mother-Child-Malaria-Test-South-Sudan-Septemebr-2017-e1601990266158-678x678.jpg",
-      "Title": "Clean water for children",
-      "Category": "Health",
+      "Picture": "https://cdn.sanpedrosun.com/wp-content/uploads/2023/06/07125452/San-Pedros-Triple-R-emergency-response-upgraded-with-ambulance-donation-202-scaled.jpg",
+      "Title": "Disaster Relief",
+      "Category": "Emergency",
       "Category_bg": "rgba(0, 82, 255, 0.15)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
       "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
-      "Price": "$20.00"
+      "Price": "$400.00"
     },
     {
-      "Picture": "https://cmmb.org/wp-content/uploads/2020/08/Doctor-Mother-Child-Malaria-Test-South-Sudan-Septemebr-2017-e1601990266158-678x678.jpg",
-      "Title": "Clean water for children",
-      "Category": "Health",
+      "Picture": "https://www.indiaart.com/Paintings/16640/Large/24151.jpg",
+      "Title": "Arts and Culture",
+      "Category": "Arts",
       "Category_bg": "rgba(0, 82, 255, 0.15)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "rgba(0, 82, 255, 0.15)",
       "Text_color": "#0052FF",
       "Description": "Every donation, big or small, paves the way for better healthcare, improved medical facilities, research advancements, and overall well-being. Your support can directly influence the lives of those in need, enabling them to lead healthier, more fulfilling lives.",
-      "Price": "$15.00"
+      "Price": "$150.00"
     },
     {
-      "Picture": "https://www.giving.sg/image/logo?img_id=3586360",
-      "Title": "Good education",
-      "Category": "Education",
+      "Picture": "https://www.globalgiving.org/pfil/17590/pict_large.jpg",
+      "Title": "Elderly Care",
+      "Category": "Elderly",
       "Category_bg": "rgba(255, 68, 74, 0.15)",
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "rgba(255, 68, 74, 0.15)",
       "Text_color": "#FF444A",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "Price": "$30.00"
+      "Price": "$300.00"
     },
     {
-      "Picture": "https://media.istockphoto.com/id/1224414111/vector/clothing-donation-for-charity.jpg?s=612x612&w=0&k=20&c=JYwMegUXLS1UjaxslilaiVN0JjB6nQESZUrY4R1z71A=",
-      "Title": "Used Clothing Drive",
-      "Category": "Clothing",
+      "Picture": "https://assets.thenewhumanitarian.org/s3fs-public/disability-op-ed-refugee-wheelchair.jpg",
+      "Title": "Disability Support",
+      "Category": "Disabilities",
       "Category_bg": "rgba(121, 194, 63, 0.15)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "rgba(121, 194, 63, 0.15)",
       "Text_color": "#79C23F",
       "Description": "Clothing is not just about style and comfort; it's about dignity, warmth, and protection. Sadly, many people across the globe lack access to adequate clothing, especially during harsh weather conditions. We can change this reality and make a difference by coming together to donate clothing.",
-      "Price": "$25.00"
+      "Price": "$150.00"
     },
     {
-      "Picture": "https://media.istockphoto.com/id/1224414210/vector/food-donation-and-charity.jpg?s=612x612&w=0&k=20&c=Zwz7H7M1-8d23Zpgz127eAaypBznKeGm05dXe80WzHs=",
-      "Title": "Better Food for Everyone",
-      "Category": "Food",
+      "Picture": "https://img.freepik.com/premium-photo/black-woman-with-hands-out-charity-donation-help-with-kindness-respect-palms-open-ask-give-receive-hope-support-poverty-hunger-helping-with-empowerment-women-need_590464-84483.jpg",
+      "Title": "Women's Empowerment",
+      "Category": "Empowerment",
       "Category_bg": "rgba(248, 113, 71, 0.15)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "rgba(248, 113, 71, 0.15)",
       "Text_color": "#F87147",
       "Description": "​The Happy Donate. Happy Families program is aimed at providing families with constant nutritious food supplies to ensure a healthy childhood and bring them to mainstream education to lift the burden of poverty that has plagued them for generations.",
-      "Price": "$20.00"
+      "Price": "$200.00"
     }
   ]
   
